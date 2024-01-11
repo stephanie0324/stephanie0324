@@ -8,23 +8,20 @@
 
 - 📫 How to reach me **sc310542@gmail.com**
 
-- ⚡ Fav quote **比你優秀的人比你更努力**
+- 🌟 Fav quote **比你優秀的人比你更努力**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" width="35" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://blogs.swarthmore.edu/its/wp-content/uploads/2020/08/jupyter.png" alt="jupy" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.getdbt.com" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"/> </a><a href="https://www.mysql.com" target="_blank"> <img src="https://lwcom.ru/upload/resize_cache/iblock/664/576_487_1/fhq2w33h042s3guk1of6a8fud41tj4r5.jpg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanie0324&show_icons=true&locale=en&layout=compact" alt="stephanie0324" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanie0324&show_icons=true&locale=en" alt="stephanie0324" /></p>
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://twitter.com/khushboogoel01](https://www.facebook.com/profile.php?id=100005029028402&locale=zh_TW)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="steph0324" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/stephanie-chiang-42100b165/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="steph0324" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yrs_2499?igsh=MXJ5MHNpc2ZxNHh5NA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="steph0324" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCpIrOv7O2R7HfpCEMQEOOKQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="steph0324" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005029028402&locale=zh_TW" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/facebook-icon-512x512-seb542ju.png" alt="steph0324" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/stephanie-chiang-42100b165/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="steph0324" height="40" width="40" /></a>
+<a href="https://www.instagram.com/yrs_2499?igsh=MXJ5MHNpc2ZxNHh5NA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="steph0324" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCpIrOv7O2R7HfpCEMQEOOKQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-512x512-80maysdk.png" alt="steph0324" height="40" width="40" /></a>
 </p>
-
-<!--<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
--->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephanie0324&show_icons=true&locale=en&layout=compact" alt="stephanie0324" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanie0324&show_icons=true&locale=en" alt="stephanie0324" /></p>
-
-
-
 
