@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sc310542@gmail.com**
 
-- ⚡ Fun fact **I think I am funny XD**
+- ⚡ Fav quote **比你優秀的人比你更努力**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
