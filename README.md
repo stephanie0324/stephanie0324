@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie Chiang</h1>
 <h3 align="center">Stranger to the world, finding way out through the machine learning jungle 🌲</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=stephanie0324&color=green)" alt="stephanie0324" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephanie0324&color=green" alt="stephanie0324" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 Check out my portfolio at [https://stephanie0324.github.io/](https://stephanie0324.github.io/)
