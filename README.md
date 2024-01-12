@@ -14,7 +14,7 @@
 </p>
 
 
-> <h3 align="center"> Goodnight World, out of the machine learning woods 🌲</h3>
+> <h3 align="center"> Goodnight World, into the machine learning woods 🌲</h3>
 
 ### Personal Stats
 - 👨‍💻 Check out my portfolio at [https://stephanie0324.github.io/](https://stephanie0324.github.io/)
