@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Stephanie Chiang</h1>
-<h3 align="center">Stranger to the world, finding way out through the machine learning jungle 🌲</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stephanie0324&color=green" alt="stephanie0324" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=stephanie0324&color=green" alt="stephanie0324" />
+    <a href="https://huggingface.co/C-MTEB">
+        <img alt="Build" src="https://img.shields.io/github/stars/stephanie0324/ML_practrice.svg?color=yellow&style=flat&label=STARS&logoColor=white">
+    </a>
+    <a href="https://github.com/stephanie0324/ML_practrice/forks">
+        <img alt="badge" src="https://img.shields.io/github/forks/stephanie0324/ML_practrice.svg?style=flat&label=FORKS">
+    </a>
+    <a href="https://github.com/FlagOpen/FlagEmbedding">
+            <img alt="Build" src="https://img.shields.io/badge/Contribution-Welcome-lightblue">
+    </a>
+</p>
 
+
+> <h3 align="center"> Goodnight World, out of the machine learning woods 🌲</h3>
+
+### Personal Stats
 - 👨‍💻 Check out my portfolio at [https://stephanie0324.github.io/](https://stephanie0324.github.io/)
 
 - 📫 How to reach me **sc310542@gmail.com**
