@@ -2,15 +2,10 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=stephanie0324&color=green" alt="stephanie0324" />
-    <a href="https://huggingface.co/C-MTEB">
-        <img alt="Build" src="https://img.shields.io/github/stars/stephanie0324/ML_practrice.svg?color=yellow&style=flat&label=STARS&logoColor=white">
-    </a>
-    <a href="https://github.com/stephanie0324/ML_practrice/forks">
-        <img alt="badge" src="https://img.shields.io/github/forks/stephanie0324/ML_practrice.svg?style=flat&label=FORKS">
-    </a>
-    <a href="https://github.com/FlagOpen/FlagEmbedding">
-            <img alt="Build" src="https://img.shields.io/badge/Contribution-Welcome-lightblue">
-    </a>
+    <a> <img alt="Build" src="https://img.shields.io/badge/Welcome-:)-lightblue"> </a>
+    <a> <img alt="Build" src="https://img.shields.io/badge/Like-🧡-lightpink"></a>
+    <a> <img alt="Build" src="https://img.shields.io/badge/Comment-💬-lightgray"></a>
+    <a> <img alt="Build" src="https://img.shields.io/badge/share-🙏-lightyellow"></a>
 </p>
 
 
